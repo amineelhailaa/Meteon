@@ -1,4 +1,4 @@
-## Meteo — Design System (source of truth)
+## Meteon — Design System (source of truth)
 
 This repository contains a Vue + Vite app. This `README.md` is the **design system** we follow.
 

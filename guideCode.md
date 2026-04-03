@@ -1,4 +1,4 @@
-# Meteo Coding Guide
+# Meteon Coding Guide
 
 This file defines how we write code in this project.
 
