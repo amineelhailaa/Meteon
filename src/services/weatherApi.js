@@ -12,9 +12,8 @@ if (!apiKey) {
 }
 
 export const weatherApi = axios.create({
-  baseURL,
+  baseURL: baseURL.replace(/^http:\/\//, 'https://'),
   params: {
     key: apiKey,
   },
 })
-
