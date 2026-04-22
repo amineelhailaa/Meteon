@@ -13,7 +13,11 @@ const props = defineProps({
 
 <template>
   <footer class="app-footer">
-    <nav class="app-footer__tabs" aria-label="Main dashboard sections">
+    <nav 
+    class="app-footer__tabs" 
+    aria-label="Main dashboard 
+    sections
+    ">
       <button type="button">Dashboard</button>
       <button type="button" class="is-active">Weather</button>
       <button type="button">Climate</button>
